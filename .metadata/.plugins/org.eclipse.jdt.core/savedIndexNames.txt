@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+C:\Users\salvador.sobrino\Desktop\BabelEjercicios\Ejercicio18JavaPrimosLambda\.metadata\.plugins\org.eclipse.jdt.core
+4044757637.index
+3196459350.index
+1865797976.index

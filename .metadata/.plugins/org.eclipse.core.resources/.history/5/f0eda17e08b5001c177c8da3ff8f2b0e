@@ -1,0 +1,8 @@
+package ejercicio18JavaPrimosLambda;
+
+public class PrimoMain {
+	public static void main(String[] args) {
+		
+	}
+
+}
